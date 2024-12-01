@@ -1,4 +1,4 @@
-weight_lbs,city,state_prov,country,gpc_site,seed_mother,pollinator_father,ott,est_weight,pct_chart,plant_type,year,fips
+weight_lbs,city,state_prov,country,gpc_site,seed_mother,pollinator_father,ott,est_weight,pct_chart,plant_type,year,id
 2000.0,Napa,California,United States,Uesugi Farms Weigh-off,2009 Wallace,1554 Mathison,475.0,"2,000.00",2.0,P,2013,06
 1809.0,Napa,California,United States,Safeway World Championship Pumpkin Weigh-Off,2009 Wallace,1725 Harp,453.0,"1,809.00",10.0,P,2013,06
 1745.0,Napa,California,United States,Safeway World Championship Pumpkin Weigh-Off,1472.5 Mathison,2009 Wallace,445.0,"1,745.00",9.0,P,2013,06
